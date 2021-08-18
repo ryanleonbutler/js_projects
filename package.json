@@ -1,0 +1,29 @@
+{
+  "name": "js_projects",
+  "version": "1.0.0",
+  "description": "40 x JS Projects to learn",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.0",
+    "live-server": "1.2.1",
+    "prettier": "2.3.2"
+  },
+  "scripts": {
+    "dev": "live-server $npm_config_app/public --no-css-inject",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanleonbutler/js_projects.git"
+  },
+  "author": "Ryan Butler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanleonbutler/js_projects/issues"
+  },
+  "homepage": "https://github.com/ryanleonbutler/js_projects#readme"
+}

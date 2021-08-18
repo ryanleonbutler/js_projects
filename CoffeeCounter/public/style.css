@@ -1,0 +1,15 @@
+.containter, h1, p { 
+  text-align: center;
+}
+
+.box {
+  background-color: #38211E;
+  width:  45px;
+  margin: auto;
+  color: #FAECC1;
+  border-radius: 15%;
+}
+
+#coffeeJumbo {
+  background-color: #FAECC1;
+}
