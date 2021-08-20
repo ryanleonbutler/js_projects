@@ -1,15 +1,35 @@
+* {
+  font-family: Tahoma;
+}
+
 .containter, h1, p { 
   text-align: center;
 }
 
 .box {
-  background-color: #38211E;
-  width:  45px;
+  background-color: #FAEBC1;
+  width:  7%;
   margin: auto;
-  color: #FAECC1;
-  border-radius: 15%;
+  color: #2B201F;
+  border-radius: 10px;
 }
 
-#coffeeJumbo {
+.btn {
+  width: 10%;
+}
+
+#increase-btn {
+  background-color: #2B201F;
+}
+
+#decrease-btn {
+  background-color: #7A8472;
+}
+
+#reset-btn {
+  background-color: #8E1E1A;
+}
+
+#jumbo {
   background-color: #FAECC1;
 }
