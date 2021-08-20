@@ -1,20 +1,22 @@
 # js_projects
 
-19 x Vanilla JavaScript Projects in order to improve and share my HTML, CSS & JavaScript knowledge.
+20 x Vanilla JavaScript Projects in order to improve and share my HTML, CSS & JavaScript knowledge.
 
 Project ideas and inspiration from:
 https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 
+I added my own twist to each project. Feel free to share or [reach out](https://ryanbutler.online/contact/) if you have questions.
+
 ## App List:
-- [x]  Color Flipper
-- [x]  Counter
-- [ ]  Review Carousel
+- [x]  Color flipper -> DarkModeFlipper
+- [x]  Counter -> CoffeeCounter
+- [ ]  Review carousel
 - [ ]  Responsive navbar
 - [ ]  Sidebar
 - [ ]  Modal
 - [ ]  FAQ Page
-- [ ]  Restaurant Menu Page
-- [ ]  Video Background
+- [ ]  Restaurant menu page
+- [ ]  Video background
 - [ ]  Navigation bar on scroll
 - [ ]  Different tabs - different content
 - [ ]  Countdown clock
@@ -22,6 +24,7 @@ https://www.freecodecamp.org/news/javascript-projects-for-beginners/
 - [ ]  Grocery list
 - [ ]  Image slider
 - [ ]  Rock, paper, scissors game
+- [ ]  Memory game 
 - [ ]  Snake game
 - [ ]  Space invaders
 - [ ]  Tetris
